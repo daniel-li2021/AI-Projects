@@ -1,6 +1,8 @@
 # AI Projects — USC CSCI 561
 
-This repository contains three homework assignments from **USC CSCI 561: Foundations of Artificial Intelligence**. All projects received **full score** in the course.
+Three projects from **USC CSCI 561: Foundations of Artificial Intelligence**, implementing core AI algorithms from scratch.
+
+**Technologies:** Python, NumPy — no ML frameworks (implementations from first principles)
 
 ---
 
@@ -29,7 +31,7 @@ python homework1.py
 - **Input:** `input.txt` — color and board states  
 - **Output:** `output.txt` — move or PASS  
 
-**Run:**
+**Run:** (requires `input.txt` with board state; sample included)
 ```bash
 cd HW2
 python go_agent.py
@@ -72,14 +74,13 @@ python3 my_solution3.py
 
 ---
 
-## Course & Grading
+## Course
 
-- **Course:** CSCI 561, Foundations of Artificial Intelligence  
-- **Grade:** Full score on all three homework assignments  
-- **Submission:** Vocareum (assignments), some components on Brightspace  
+- **Course:** CSCI 561, Foundations of Artificial Intelligence (USC)  
+- **Submission:** Vocareum  
 
 ---
 
 ## Repository
 
-- **GitHub:** [https://github.com/daniel-li2021/AI-Projects](https://github.com/daniel-li2021/AI-Projects)
+**[github.com/daniel-li2021/AI-Projects](https://github.com/daniel-li2021/AI-Projects)**

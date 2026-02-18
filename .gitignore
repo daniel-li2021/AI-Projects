@@ -1,0 +1,20 @@
+# Generated outputs
+states.txt
+output.txt
+num.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.so
+.venv/
+venv/
+env/
+
+# IDE / OS
+.DS_Store
+.idea/
+*.swp
+*.swo
